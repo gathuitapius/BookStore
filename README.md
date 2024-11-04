@@ -1,4 +1,4 @@
-# **Book Rental Management System**
+# **Console Book Rental Management System**
 
 A Python application that manages book rentals and user authentication, providing functionalities to add books, rent books, display available and rented books, and manage users.
 
@@ -25,7 +25,7 @@ The Book Rental Management System is a CLI-based application that allows users t
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/book-rental-system.git
+    git clone https://github.com/gathuitapius/bookstore.git
     ```
 2. **Navigate into the Project Directory**:
     ```bash
