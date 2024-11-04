@@ -25,7 +25,7 @@ The Book Rental Management System is a CLI-based application that allows users t
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/gathuitapius/bookstore.git
+    git clone https://github.com/gathuitapius/BookStore.git
     ```
 2. **Navigate into the Project Directory**:
     ```bash
